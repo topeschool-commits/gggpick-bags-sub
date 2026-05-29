@@ -1,22 +1,22 @@
 {
     "domain": "bags.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "백팩",
+        "크로스백",
+        "에코백 및 토트백"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang bags items."
+        "백팩": {
+            "topic": "Laptop backpacks, travel backpacks, school bags.",
+            "role": "Backpack reviewer."
         },
-        "수유/이유식": {
-            "topic": "bags bottle sterilizers, bags food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "크로스백": {
+            "topic": "Crossbody bags, shoulder bags, messenger bags.",
+            "role": "Casual bag expert."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "에코백 및 토트백": {
+            "topic": "Canvas bags, eco bags, leather tote bags.",
+            "role": "Everyday bag curator."
         }
     }
 }
