@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://bags.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick bags'
+title = 'GGG Pick 가방'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick bags'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'bags 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '백팩, 크로스백, 에코백 및 토트백 등 실용적이고 스타일리시한 가방/핸드백 쿠팡 로켓배송 특가 추천 및 전문가 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick bags'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick bags"
+  sitename = "GGG Pick 가방"
   siteurl = "https://bags.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
