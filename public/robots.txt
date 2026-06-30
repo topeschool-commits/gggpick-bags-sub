@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bags.gggpick.com/sitemap.xml
